@@ -13,7 +13,7 @@ export default function Home() {
 
                 <div className="">
                 <h4>Jade</h4>
-                <p className="text-[10px] text-gray-500">Jadeuser@gmail.com</p>
+                <p className="text-[10.7px] text-gray-500">Jadeuser@gmail.com</p>
                 </div>
               </div>
             
